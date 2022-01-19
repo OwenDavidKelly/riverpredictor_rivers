@@ -1,0 +1,50 @@
+{
+    "dee-grampian-milltimber-aberdeen": {
+        "friendly_name": "Dee (Grampian)",
+        "section_name": "Milltimber to Aberdeen",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.0,
+            "low": 0.77,
+            "medium": 1.0,
+            "high": 2.0,
+            "huge": 2.0
+        },
+        "level_api": "SEPA",
+        "level_id": 368014,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.101929,
+                "longitude": -2.222189
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.101929,
+            "longitude": -2.222189
+        },
+        "poi": [
+            {
+                "latitude": 57.101929,
+                "longitude": -2.222189,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.140775,
+                "longitude": -2.070994,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "",
+        "grade": "1",
+        "uuid": "e3fbb864-558e-5610-9425-3857b7564bec"
+    }
+}

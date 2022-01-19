@@ -1,0 +1,50 @@
+{
+    "clyde-hazelbank-crossford": {
+        "friendly_name": "Clyde",
+        "section_name": "Hazelbank to Crossford",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.31,
+            "low": 0.5,
+            "medium": 0.8,
+            "high": 1.6,
+            "huge": 2.2
+        },
+        "level_api": "SEPA",
+        "level_id": 133094,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.6775,
+                "longitude": -3.8401
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.6775,
+            "longitude": -3.8401
+        },
+        "poi": [
+            {
+                "latitude": 55.6775,
+                "longitude": -3.8401,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.7007,
+                "longitude": -3.8674,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "South Lanarkshire",
+        "grade": "2/3",
+        "uuid": "77b9d805-0cf9-569e-9a12-db48d95b8243"
+    }
+}

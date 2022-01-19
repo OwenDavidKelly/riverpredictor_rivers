@@ -1,0 +1,50 @@
+{
+    "luss-water-luss": {
+        "friendly_name": "Luss Water",
+        "section_name": "Luss",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.7,
+            "medium": 0.9,
+            "high": 1.0,
+            "huge": 1.2
+        },
+        "level_api": "SEPA",
+        "level_id": 133108,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.1121,
+                "longitude": -4.6858
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.1121,
+            "longitude": -4.6858
+        },
+        "poi": [
+            {
+                "latitude": 56.1121,
+                "longitude": -4.6858,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.0976,
+                "longitude": -4.6413,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Argyll and Bute",
+        "grade": "4(4+)",
+        "uuid": "820acba2-4b2e-512c-90b6-4ae5ab1d8761"
+    }
+}

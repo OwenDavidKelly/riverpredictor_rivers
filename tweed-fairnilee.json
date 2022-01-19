@@ -1,0 +1,50 @@
+{
+    "tweed-fairnilee": {
+        "friendly_name": "Tweed",
+        "section_name": "Fairnilee",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.0,
+            "low": 0.21,
+            "medium": 0.4,
+            "high": 0.945,
+            "huge": 1.9
+        },
+        "level_api": "SEPA",
+        "level_id": 14979,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.605646,
+                "longitude": -2.896935
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.605646,
+            "longitude": -2.896935
+        },
+        "poi": [
+            {
+                "latitude": 55.605646,
+                "longitude": -2.896935,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.584,
+                "longitude": -2.86,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Scottish Borders",
+        "grade": "1-2",
+        "uuid": "3023e767-45d1-5533-a4c8-d7259f3be6a1"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "tilt-marble-lodge": {
+        "friendly_name": "Tilt",
+        "section_name": "Marble Lodge",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.35,
+            "low": 0.4,
+            "medium": 0.6,
+            "high": 1.0,
+            "huge": 1.5
+        },
+        "level_api": "SEPA",
+        "level_id": 14959,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.8246,
+                "longitude": -3.8023
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.8246,
+            "longitude": -3.8023
+        },
+        "poi": [
+            {
+                "latitude": 56.8246,
+                "longitude": -3.8023,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.7742,
+                "longitude": -3.8432,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Perth and Kinross",
+        "grade": "4(5)",
+        "uuid": "3313f365-be18-5193-8b33-04c54a32fb23"
+    }
+}

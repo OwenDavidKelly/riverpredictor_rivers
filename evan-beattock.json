@@ -1,0 +1,50 @@
+{
+    "evan-beattock": {
+        "friendly_name": "Evan Water",
+        "section_name": "Beattock",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.5,
+            "low": 0.5,
+            "medium": 0.75,
+            "high": 1.0,
+            "huge": 1.2
+        },
+        "level_api": "SEPA",
+        "level_id": 133143,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.3442,
+                "longitude": -3.5026
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.3442,
+            "longitude": -3.5026
+        },
+        "poi": [
+            {
+                "latitude": 55.3442,
+                "longitude": -3.5026,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.3103,
+                "longitude": -3.4541,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Dumfries and Galloway",
+        "grade": "3-3+",
+        "uuid": "e314d572-08e4-5d03-b0b6-eb739b4ed8b0"
+    }
+}

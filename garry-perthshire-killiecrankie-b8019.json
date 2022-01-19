@@ -1,0 +1,50 @@
+{
+    "garry-perthshire-killiecrankie-b8019": {
+        "friendly_name": "Garry (Perhshire)",
+        "section_name": "Killiecrankie to B8019",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.6,
+            "low": 0.7,
+            "medium": 1.0,
+            "high": 1.1,
+            "huge": 1.1
+        },
+        "level_api": "SEPA",
+        "level_id": 14958,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.7437,
+                "longitude": -3.7808
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.7437,
+            "longitude": -3.7808
+        },
+        "poi": [
+            {
+                "latitude": 56.7437,
+                "longitude": -3.7808,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.7279,
+                "longitude": -3.7775,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Perth and Kinross",
+        "grade": "2/3(5)",
+        "uuid": "a683bc1c-d044-5d23-97cd-77ae82739648"
+    }
+}

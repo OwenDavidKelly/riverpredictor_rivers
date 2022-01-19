@@ -1,0 +1,50 @@
+{
+    "allan-water-ashfield-bridge-allan": {
+        "friendly_name": "Allan Water",
+        "section_name": "Ashfield to Bridge of Allan",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.7,
+            "low": 0.9,
+            "medium": 1.1,
+            "high": 1.3,
+            "huge": 1.7
+        },
+        "level_api": "SEPA",
+        "level_id": 14890,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.2127,
+                "longitude": -3.9587
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.2127,
+            "longitude": -3.9587
+        },
+        "poi": [
+            {
+                "latitude": 56.2127,
+                "longitude": -3.9587,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.1564,
+                "longitude": -3.9519,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Stirling",
+        "grade": "3+(4)",
+        "uuid": "f5e1a87f-72e9-5d1e-acc2-4b332bebe48f"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "averon-alness-loch-morie-alness": {
+        "friendly_name": "Averon of Alness",
+        "section_name": "Loch Morie to Alness",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.7,
+            "low": 0.7,
+            "medium": 0.9,
+            "high": 1.4,
+            "huge": 1.75
+        },
+        "level_api": "SEPA",
+        "level_id": 234152,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.7333,
+                "longitude": -4.3982
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.7333,
+            "longitude": -4.3982
+        },
+        "poi": [
+            {
+                "latitude": 57.7333,
+                "longitude": -4.3982,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.6969,
+                "longitude": -4.2584,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Highland",
+        "grade": "3/4",
+        "uuid": "dee96820-3bfb-5276-998f-65fc26977969"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "falloch-lower": {
+        "friendly_name": "Falloch",
+        "section_name": "Lower",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.8,
+            "low": 0.9,
+            "medium": 1.0,
+            "high": 1.2,
+            "huge": 1.7
+        },
+        "level_api": "SEPA",
+        "level_id": 133089,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.3504,
+                "longitude": -4.6914
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.3504,
+            "longitude": -4.6914
+        },
+        "poi": [
+            {
+                "latitude": 56.3504,
+                "longitude": -4.6914,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.3424,
+                "longitude": -4.7182,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Stirling",
+        "grade": "4/5",
+        "uuid": "d2287032-562d-5bd8-b8e6-80894da04f79"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "tay-kenmore-aberfeldy": {
+        "friendly_name": "Tay",
+        "section_name": "Kenmore to Aberfeldy",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.3,
+            "low": 0.5,
+            "medium": 0.7,
+            "high": 1.0,
+            "huge": 2.0
+        },
+        "level_api": "SEPA",
+        "level_id": 8295,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.583472,
+                "longitude": -3.996751
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.583472,
+            "longitude": -3.996751
+        },
+        "poi": [
+            {
+                "latitude": 56.583472,
+                "longitude": -3.996751,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.620153,
+                "longitude": -3.873551,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Perth and Kinross",
+        "grade": "1-2",
+        "uuid": "6f940f85-54cd-5c31-b3f3-ad4218e51b5f"
+    }
+}

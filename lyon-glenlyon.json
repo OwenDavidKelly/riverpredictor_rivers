@@ -1,0 +1,50 @@
+{
+    "lyon-glenlyon": {
+        "friendly_name": "Lyon",
+        "section_name": "Glenlyon",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.2,
+            "low": 0.5,
+            "medium": 0.6,
+            "high": 1.0,
+            "huge": 1.8
+        },
+        "level_api": "SEPA",
+        "level_id": 14951,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.5989,
+                "longitude": -4.1189
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.5989,
+            "longitude": -4.1189
+        },
+        "poi": [
+            {
+                "latitude": 56.5989,
+                "longitude": -4.1189,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.5942,
+                "longitude": -4.072,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Perth and Kinross",
+        "grade": "3-4(5)",
+        "uuid": "2b4d8482-a331-551b-8413-19f03158d581"
+    }
+}

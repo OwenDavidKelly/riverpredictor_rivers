@@ -1,0 +1,50 @@
+{
+    "lochy-gairlochy-fort-william": {
+        "friendly_name": "Lochy",
+        "section_name": "Gairlochy to Fort William",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.0,
+            "low": 0.6,
+            "medium": 0.9,
+            "high": 1.4,
+            "huge": 3.0
+        },
+        "level_api": "SEPA",
+        "level_id": 234178,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.9109,
+                "longitude": -4.9968
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.9109,
+            "longitude": -4.9968
+        },
+        "poi": [
+            {
+                "latitude": 56.9109,
+                "longitude": -4.9968,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.8327,
+                "longitude": -5.0809,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "",
+        "grade": "1 (2/3)",
+        "uuid": "4651f221-a602-539a-bd9b-84bd69da8911"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "dee-grampian-potarch-banchory": {
+        "friendly_name": "Dee (Grampian)",
+        "section_name": "Potarch to Banchory",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.5,
+            "medium": 0.9,
+            "high": 1.2,
+            "huge": 2.0
+        },
+        "level_api": "SEPA",
+        "level_id": 234333,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.0652,
+                "longitude": -2.6485
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.0652,
+            "longitude": -2.6485
+        },
+        "poi": [
+            {
+                "latitude": 57.0652,
+                "longitude": -2.6485,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.0477,
+                "longitude": -2.5005,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Aberdeenshire",
+        "grade": "2(3)",
+        "uuid": "6bd89aac-dea3-5536-b298-9c984cc17548"
+    }
+}

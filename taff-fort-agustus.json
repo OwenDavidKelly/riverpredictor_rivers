@@ -1,0 +1,50 @@
+{
+    "taff-fort-agustus": {
+        "friendly_name": "Tarff",
+        "section_name": "Fort Agustus",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.8,
+            "low": 0.9,
+            "medium": 1.1,
+            "high": 1.2,
+            "huge": 1.6
+        },
+        "level_api": "SEPA",
+        "level_id": 234155,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.0961,
+                "longitude": -4.6616
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.0961,
+            "longitude": -4.6616
+        },
+        "poi": [
+            {
+                "latitude": 57.0961,
+                "longitude": -4.6616,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.1294,
+                "longitude": -4.6778,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Highland",
+        "grade": "5",
+        "uuid": "f922c912-ac68-577a-b563-29a54eec5a8c"
+    }
+}

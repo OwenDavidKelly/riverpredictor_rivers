@@ -1,0 +1,50 @@
+{
+    "abhainn-deabhag": {
+        "friendly_name": "Abhainn Deabhag",
+        "section_name": " ",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.45,
+            "medium": 0.5,
+            "high": 0.65,
+            "huge": 1.0
+        },
+        "level_api": "SEPA",
+        "level_id": 234215,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.2583,
+                "longitude": -4.8746
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.2583,
+            "longitude": -4.8746
+        },
+        "poi": [
+            {
+                "latitude": 57.2583,
+                "longitude": -4.8746,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.2725,
+                "longitude": -4.8602,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Highland",
+        "grade": "4-5",
+        "uuid": "f06fc2fb-50df-558c-abca-636506e3bb66"
+    }
+}

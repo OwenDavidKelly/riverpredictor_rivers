@@ -1,0 +1,50 @@
+{
+    "border-esk-langholm-canonbie": {
+        "friendly_name": "Esk (Scotland)",
+        "section_name": "Langholm to Canonbie",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.6,
+            "low": 0.8,
+            "medium": 1.1,
+            "high": 1.3,
+            "huge": 1.9
+        },
+        "level_api": "SEPA",
+        "level_id": 133148,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.1524,
+                "longitude": -3.0016
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.1524,
+            "longitude": -3.0016
+        },
+        "poi": [
+            {
+                "latitude": 55.1524,
+                "longitude": -3.0016,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.0797,
+                "longitude": -2.9489,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Dumfries and Galloway",
+        "grade": "3(4)",
+        "uuid": "796ce0c5-ea42-58dd-9a3b-96732c1135a0"
+    }
+}

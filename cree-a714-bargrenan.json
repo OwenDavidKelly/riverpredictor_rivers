@@ -1,0 +1,50 @@
+{
+    "cree-a714-bargrenan": {
+        "friendly_name": "Cree",
+        "section_name": "A714 to Bargrenan",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.6,
+            "low": 0.8,
+            "medium": 0.9,
+            "high": 1.0,
+            "huge": 1.2
+        },
+        "level_api": "SEPA",
+        "level_id": 502896,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.0897,
+                "longitude": -4.6621
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.0897,
+            "longitude": -4.6621
+        },
+        "poi": [
+            {
+                "latitude": 55.0897,
+                "longitude": -4.6621,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.0545,
+                "longitude": -4.5862,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "South Ayrshire",
+        "grade": "4(5)",
+        "uuid": "09a140d8-ec52-515e-aca3-73fe16e208f8"
+    }
+}

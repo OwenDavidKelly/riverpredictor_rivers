@@ -1,0 +1,50 @@
+{
+    "gryfe-bridge-wier-craigends": {
+        "friendly_name": "Gryfe",
+        "section_name": "Bridge of Wier to Craigends",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.3,
+            "low": 0.45,
+            "medium": 0.5,
+            "high": 0.6,
+            "huge": 1.0
+        },
+        "level_api": "SEPA",
+        "level_id": 133073,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.8605,
+                "longitude": -4.5929
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.8605,
+            "longitude": -4.5929
+        },
+        "poi": [
+            {
+                "latitude": 55.8605,
+                "longitude": -4.5929,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.8637,
+                "longitude": -4.5304,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Renfrewshire",
+        "grade": "3(4+)",
+        "uuid": "83f61d9a-773e-5114-ad67-a9bc8e281c90"
+    }
+}

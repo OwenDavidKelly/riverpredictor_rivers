@@ -1,0 +1,50 @@
+{
+    "findhorn-gorge": {
+        "friendly_name": "Findhorn",
+        "section_name": "Gorge",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.0,
+            "low": 0.2,
+            "medium": 0.3,
+            "high": 0.37,
+            "huge": 0.8
+        },
+        "level_api": "SEPA",
+        "level_id": 234306,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.525,
+                "longitude": -3.6713
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.525,
+            "longitude": -3.6713
+        },
+        "poi": [
+            {
+                "latitude": 57.525,
+                "longitude": -3.6713,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.5525,
+                "longitude": -3.6626,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Moray",
+        "grade": "3/4 (5)",
+        "uuid": "dfb0ce2b-9826-5bb5-9284-1c3a1dac3bcc"
+    }
+}

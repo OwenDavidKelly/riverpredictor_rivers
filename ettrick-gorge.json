@@ -1,0 +1,50 @@
+{
+    "ettrick-gorge": {
+        "friendly_name": "Ettrick",
+        "section_name": "Gorge",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.7,
+            "low": 0.8,
+            "medium": 0.85,
+            "high": 1.2,
+            "huge": 1.8
+        },
+        "level_api": "SEPA",
+        "level_id": 14990,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.4992,
+                "longitude": -2.9873
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.4992,
+            "longitude": -2.9873
+        },
+        "poi": [
+            {
+                "latitude": 55.4992,
+                "longitude": -2.9873,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.5501,
+                "longitude": -2.8508,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Scottish Borders",
+        "grade": "2/3 (3+)",
+        "uuid": "ed3b92a5-96d2-505b-a0ee-5ad8244904db"
+    }
+}

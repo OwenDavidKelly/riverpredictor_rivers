@@ -1,0 +1,50 @@
+{
+    "carron-easter-ross": {
+        "friendly_name": "Carron",
+        "section_name": "Easter Ross",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.8,
+            "low": 0.85,
+            "medium": 1.0,
+            "high": 1.5,
+            "huge": 2.0
+        },
+        "level_api": "SEPA",
+        "level_id": 234305,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.8857,
+                "longitude": -4.4309
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.8857,
+            "longitude": -4.4309
+        },
+        "poi": [
+            {
+                "latitude": 57.8857,
+                "longitude": -4.4309,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.886,
+                "longitude": -4.3876,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Highland",
+        "grade": "4 (4+)",
+        "uuid": "3cee6b12-8e31-55bd-b035-44d169c91173"
+    }
+}

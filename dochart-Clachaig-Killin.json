@@ -1,0 +1,50 @@
+{
+    "dochart-Clachaig-Killin": {
+        "friendly_name": "Dochart",
+        "section_name": "Clachaig to Killin",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.5,
+            "medium": 0.6,
+            "high": 0.8,
+            "huge": 1.2
+        },
+        "level_api": "SEPA",
+        "level_id": 14933,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.4609,
+                "longitude": -4.3229
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.4609,
+            "longitude": -4.3229
+        },
+        "poi": [
+            {
+                "latitude": 56.4609,
+                "longitude": -4.3229,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.4649,
+                "longitude": -4.3159,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Stirling",
+        "grade": "4",
+        "uuid": "63cf0362-ae2f-52b4-9a28-29b85f0dfe55"
+    }
+}

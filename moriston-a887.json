@@ -1,0 +1,50 @@
+{
+    "moriston-a887": {
+        "friendly_name": "Moriston",
+        "section_name": "A887",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.5,
+            "medium": 0.8,
+            "high": 0.9,
+            "huge": 1.2
+        },
+        "level_api": "SEPA",
+        "level_id": 234262,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.2023,
+                "longitude": -4.7198
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.2023,
+            "longitude": -4.7198
+        },
+        "poi": [
+            {
+                "latitude": 57.2023,
+                "longitude": -4.7198,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.2016,
+                "longitude": -4.7102,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "",
+        "grade": "4(5)",
+        "uuid": "b1b3c4fe-2585-5d70-99e4-333e3597bbfe"
+    }
+}

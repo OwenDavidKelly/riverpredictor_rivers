@@ -1,0 +1,50 @@
+{
+    "avon-glasgow-stonehouse-motherwell": {
+        "friendly_name": "Avon (Glasgow)",
+        "section_name": "Stonehouse to Motherwell",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.5,
+            "low": 0.6,
+            "medium": 0.8,
+            "high": 1.1,
+            "huge": 1.7
+        },
+        "level_api": "SEPA",
+        "level_id": 133084,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.7039,
+                "longitude": -3.9892
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.7039,
+            "longitude": -3.9892
+        },
+        "poi": [
+            {
+                "latitude": 55.7039,
+                "longitude": -3.9892,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.7895,
+                "longitude": -4.0217,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "South Lanarkshire",
+        "grade": "3(4)",
+        "uuid": "a386f2c0-2f44-5252-95cd-db1c1938bf9d"
+    }
+}

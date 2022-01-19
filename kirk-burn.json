@@ -1,0 +1,50 @@
+{
+    "kirk-burn": {
+        "friendly_name": "Kirk Burn",
+        "section_name": "",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.5,
+            "low": 0.6,
+            "medium": 0.65,
+            "high": 0.75,
+            "huge": 0.9
+        },
+        "level_api": "SEPA",
+        "level_id": 133104,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.9998,
+                "longitude": -4.209
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.9998,
+            "longitude": -4.209
+        },
+        "poi": [
+            {
+                "latitude": 55.9998,
+                "longitude": -4.209,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.9949,
+                "longitude": -4.2257,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "East Dunbartonshire",
+        "grade": "4/5 (5+)",
+        "uuid": "63a3ebf0-7a82-5e66-80ae-29c7330336e5"
+    }
+}

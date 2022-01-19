@@ -1,0 +1,50 @@
+{
+    "tweed-st-boswells-a699": {
+        "friendly_name": "Tweed",
+        "section_name": "St Boswells to A699",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.0,
+            "low": 0.53,
+            "medium": 0.7,
+            "high": 1.0,
+            "huge": 2.0
+        },
+        "level_api": "SEPA",
+        "level_id": 533744,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.580299,
+                "longitude": -2.654166
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.580299,
+            "longitude": -2.654166
+        },
+        "poi": [
+            {
+                "latitude": 55.580299,
+                "longitude": -2.654166,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.5777,
+                "longitude": -2.5153,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Scottish Borders",
+        "grade": "2",
+        "uuid": "6b6893a5-9782-5d03-8fb5-75d8f51b584a"
+    }
+}

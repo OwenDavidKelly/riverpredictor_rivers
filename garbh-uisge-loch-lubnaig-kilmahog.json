@@ -1,0 +1,50 @@
+{
+    "garbh-uisge-loch-lubnaig-kilmahog": {
+        "friendly_name": "Garbh Uisge",
+        "section_name": "Loch Lubnaig to Kilmahog",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.5,
+            "low": 0.7,
+            "medium": 1.0,
+            "high": 1.3,
+            "huge": 2.0
+        },
+        "level_api": "SEPA",
+        "level_id": 14888,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.2577,
+                "longitude": -4.2839
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.2577,
+            "longitude": -4.2839
+        },
+        "poi": [
+            {
+                "latitude": 56.2577,
+                "longitude": -4.2839,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.2464,
+                "longitude": -4.2477,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Stirling",
+        "grade": "3/4(5)",
+        "uuid": "a50a5d86-1849-5758-8222-e44245ba12b4"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "almond-perthshire-glenalmond": {
+        "friendly_name": "Almond (Perthshire)",
+        "section_name": "Glenalmond",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.38,
+            "low": 0.4,
+            "medium": 0.7,
+            "high": 0.8,
+            "huge": 1.7
+        },
+        "level_api": "SEPA",
+        "level_id": 14953,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.4623,
+                "longitude": -3.807
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.4623,
+            "longitude": -3.807
+        },
+        "poi": [
+            {
+                "latitude": 56.4623,
+                "longitude": -3.807,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.4354,
+                "longitude": -3.7308,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Perth and Kinross",
+        "grade": "2/3(5)",
+        "uuid": "d3667ad4-d26f-5a88-9762-7a9cb4fc637b"
+    }
+}

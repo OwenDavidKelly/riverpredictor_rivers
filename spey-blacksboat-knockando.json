@@ -1,0 +1,50 @@
+{
+    "spey-blacksboat-knockando": {
+        "friendly_name": "Spey",
+        "section_name": "Blacksboat to Knockando",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.0,
+            "low": 0.4,
+            "medium": 0.8,
+            "high": 1.4,
+            "huge": 2.7
+        },
+        "level_api": "SEPA",
+        "level_id": 234167,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.4144,
+                "longitude": -3.3879
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.4144,
+            "longitude": -3.3879
+        },
+        "poi": [
+            {
+                "latitude": 57.4144,
+                "longitude": -3.3879,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.4579,
+                "longitude": -3.3503,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Moray",
+        "grade": "1-2",
+        "uuid": "fe91216f-06fc-52a3-a982-e6713ce64d6f"
+    }
+}

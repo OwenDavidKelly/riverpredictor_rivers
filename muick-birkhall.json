@@ -1,0 +1,50 @@
+{
+    "muick-birkhall": {
+        "friendly_name": "Muick",
+        "section_name": "Birkhall",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.5,
+            "medium": 0.7,
+            "high": 1.0,
+            "huge": 1.5
+        },
+        "level_api": "SEPA",
+        "level_id": 234247,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.9871,
+                "longitude": -3.1083
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.9871,
+            "longitude": -3.1083
+        },
+        "poi": [
+            {
+                "latitude": 56.9871,
+                "longitude": -3.1083,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.0233,
+                "longitude": -3.0732,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Aberdeenshire",
+        "grade": "3+ (5)",
+        "uuid": "51f01c9b-9a42-564b-8ebd-a70c27cfb28f"
+    }
+}

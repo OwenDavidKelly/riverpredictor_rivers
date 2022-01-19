@@ -1,0 +1,50 @@
+{
+    "blackwater-perthshire-blacklunans-blairgowrie": {
+        "friendly_name": "Blackwater (Perthshire)",
+        "section_name": "Blacklunans to Blairgowrie",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.75,
+            "low": 0.85,
+            "medium": 0.9,
+            "high": 1.2,
+            "huge": 1.7
+        },
+        "level_api": "SEPA",
+        "level_id": 14956,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.6965,
+                "longitude": -3.4092
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.6965,
+            "longitude": -3.4092
+        },
+        "poi": [
+            {
+                "latitude": 56.6965,
+                "longitude": -3.4092,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.5626,
+                "longitude": -3.3973,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Perth and Kinross",
+        "grade": "4",
+        "uuid": "df8485cd-7f8f-5b5d-97bf-f02eb17a92f7"
+    }
+}

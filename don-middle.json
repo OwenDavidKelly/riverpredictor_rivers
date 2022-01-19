@@ -1,0 +1,50 @@
+{
+    "don-middle": {
+        "friendly_name": "Don",
+        "section_name": "Middle",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.6,
+            "medium": 0.7,
+            "high": 1.0,
+            "huge": 1.4
+        },
+        "level_api": "SEPA",
+        "level_id": 234170,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.2115,
+                "longitude": -2.9305
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.2115,
+            "longitude": -2.9305
+        },
+        "poi": [
+            {
+                "latitude": 57.2115,
+                "longitude": -2.9305,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.2755,
+                "longitude": -2.3731,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Aberdeenshire",
+        "grade": "1/2",
+        "uuid": "a0bbb220-a784-5591-a047-01a1c5314aa7"
+    }
+}

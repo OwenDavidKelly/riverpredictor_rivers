@@ -1,0 +1,50 @@
+{
+    "feshie-feshie-bridge": {
+        "friendly_name": "Feshie",
+        "section_name": "Feshie Bridge",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.5,
+            "medium": 1.0,
+            "high": 1.3,
+            "huge": 2.5
+        },
+        "level_api": "SEPA",
+        "level_id": 234217,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.0631,
+                "longitude": -3.8969
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.0631,
+            "longitude": -3.8969
+        },
+        "poi": [
+            {
+                "latitude": 57.0631,
+                "longitude": -3.8969,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.1182,
+                "longitude": -3.9018,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Highland",
+        "grade": "3(3+)",
+        "uuid": "8fc8da9f-278a-54bc-8787-dc440936d29f"
+    }
+}

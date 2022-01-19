@@ -1,0 +1,50 @@
+{
+    "lochy-orchy": {
+        "friendly_name": "Lochy",
+        "section_name": "Near Orchy",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.5,
+            "low": 0.8,
+            "medium": 1.0,
+            "high": 1.3,
+            "huge": 2.0
+        },
+        "level_api": "SEPA",
+        "level_id": 133097,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 56.4037,
+                "longitude": -4.8732
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 56.4037,
+            "longitude": -4.8732
+        },
+        "poi": [
+            {
+                "latitude": 56.4037,
+                "longitude": -4.8732,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 56.406,
+                "longitude": -4.9252,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Argyll and Bute",
+        "grade": "5",
+        "uuid": "ea147adf-9858-51db-bcde-dbfe7af79f04"
+    }
+}

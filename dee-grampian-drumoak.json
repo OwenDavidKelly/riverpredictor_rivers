@@ -1,0 +1,50 @@
+{
+    "dee-grampian-drumoak": {
+        "friendly_name": "Dee (Grampian)",
+        "section_name": "Drumoak",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.0,
+            "low": 0.0,
+            "medium": 0.0,
+            "high": 0.0,
+            "huge": 0.0
+        },
+        "level_api": "SEPA",
+        "level_id": 234291,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 57.053139,
+                "longitude": -2.409091
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 57.053139,
+            "longitude": -2.409091
+        },
+        "poi": [
+            {
+                "latitude": 57.053139,
+                "longitude": -2.409091,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 57.094381,
+                "longitude": -2.235541,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Aberdeenshire",
+        "grade": "1",
+        "uuid": "2f70f0d9-7c85-5795-81d7-e3e245935dc5"
+    }
+}

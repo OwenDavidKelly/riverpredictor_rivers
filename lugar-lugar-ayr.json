@@ -1,0 +1,50 @@
+{
+    "lugar-lugar-ayr": {
+        "friendly_name": "Lugar Water",
+        "section_name": "Lugar to River Ayr confluence",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.7,
+            "low": 0.8,
+            "medium": 0.9,
+            "high": 1.0,
+            "huge": 1.7
+        },
+        "level_api": "SEPA",
+        "level_id": 133103,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.4661,
+                "longitude": -4.2255
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.4661,
+            "longitude": -4.2255
+        },
+        "poi": [
+            {
+                "latitude": 55.4661,
+                "longitude": -4.2255,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.499,
+                "longitude": -4.3913,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "East Ayrshire",
+        "grade": "2/3",
+        "uuid": "3fb65e64-425d-5c90-9a6c-4b3ae1b5fdc8"
+    }
+}

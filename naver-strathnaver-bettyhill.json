@@ -1,0 +1,50 @@
+{
+    "naver-strathnaver-bettyhill": {
+        "friendly_name": "Naver",
+        "section_name": "Strathnaver to Bettyhill",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.4,
+            "low": 0.5,
+            "medium": 0.6,
+            "high": 0.7,
+            "huge": 1.0
+        },
+        "level_api": "SEPA",
+        "level_id": 234153,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 58.3355,
+                "longitude": -4.253
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 58.3355,
+            "longitude": -4.253
+        },
+        "poi": [
+            {
+                "latitude": 58.3355,
+                "longitude": -4.253,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 58.5261,
+                "longitude": -4.2337,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Sutherland",
+        "grade": "2",
+        "uuid": "42fc8531-4fcb-5420-8132-688cf6aaae04"
+    }
+}

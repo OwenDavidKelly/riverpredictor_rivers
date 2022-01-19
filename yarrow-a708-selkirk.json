@@ -1,0 +1,50 @@
+{
+    "yarrow-a708-selkirk": {
+        "friendly_name": "Yarrow",
+        "section_name": "A708 to Selkirk",
+        "section_description": "",
+        "description_attribution": "Section information provided by <a href='https://www.canoescotland.org/go-paddling/wheres-the-water' rel=\"nofollow\">Where's the Water</a> Copyright \u00a9 2022 Scottish Canoe Association, Jonathan Riddell",
+        "level_attribution": "Contains SEPA data \u00a9 Scottish Environment Protection Agency and database right 2022. All rights reserved. <br> Rainfall data from MET Norway - <a href=\"https://www.yr.no/en\" rel=\"nofollow\">yr.no</a>",
+        "directions": "",
+        "calibrations": {
+            "scrape": 0.35,
+            "low": 0.5,
+            "medium": 0.8,
+            "high": 1.0,
+            "huge": 1.3
+        },
+        "level_api": "SEPA",
+        "level_id": 14985,
+        "rain_api": "NA",
+        "rain_id": 0,
+        "rain_points": [
+            {
+                "latitude": 55.5596,
+                "longitude": -2.9393
+            }
+        ],
+        "model_type": "NP",
+        "location": {
+            "latitude": 55.5596,
+            "longitude": -2.9393
+        },
+        "poi": [
+            {
+                "latitude": 55.5596,
+                "longitude": -2.9393,
+                "type": "putin",
+                "description": "Put in"
+            },
+            {
+                "latitude": 55.5501,
+                "longitude": -2.8508,
+                "type": "takeout",
+                "description": "Takeout"
+            }
+        ],
+        "country": "Scotland",
+        "county": "Scottish Borders",
+        "grade": "2/3",
+        "uuid": "558d0163-1cd4-59b5-b5b5-eabdffe697f4"
+    }
+}
